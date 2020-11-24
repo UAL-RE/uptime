@@ -1,11 +1,11 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Research Data Management Site",
+    "url": "https://data.library.arizona.edu",
+    "slug": "research-data-management-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 46
+    "time": 306
   },
   {
     "name": "ReDATA",
@@ -13,38 +13,38 @@
     "slug": "re-data",
     "status": "up",
     "uptime": "100.00%",
-    "time": 987
+    "time": 914
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "ReDATA (stage)",
+    "url": "$SECRET_SITE_1",
+    "slug": "re-data-stage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 31
+    "time": 888
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Campus Repository",
+    "url": "https://repository.arizona.edu/",
+    "slug": "campus-repository",
     "status": "up",
     "uptime": "100.00%",
-    "time": 196
+    "time": 942
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
+    "name": "Spatial Data Explorer",
+    "url": "https://geo.library.arizona.edu/",
+    "slug": "spatial-data-explorer",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 0
+    "time": 481
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "99.73%",
-    "time": 0
+    "name": "Afghan Respository",
+    "url": "http://www.afghandata.org/",
+    "slug": "afghan-respository",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 319
   }
 ]
