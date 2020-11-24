@@ -6,16 +6,32 @@ repo: uptime # Your Github repository name
 sites:
   - name: Research Data Management Site
     url: https://data.library.arizona.edu
+    assignees:
+      - astrochun
+      - damian-romero
+      - zoidy
   - name: ReDATA
     url: https://arizona.figshare.com
+    assignees:
+      - astrochun
+      - damian-romero
+      - zoidy
   - name: ReDATA (stage)
     url: $SECRET_SITE_1
+    assignees:
+      - astrochun
+      - damian-romero
+      - zoidy
   - name: Campus Repository
     url: https://repository.arizona.edu/
   - name: Spatial Data Explorer
     url: https://geo.library.arizona.edu/
+    assignees:
+      - kcarini
   - name: Afghan Respository
     url: http://www.afghandata.org/
+  - name: UAL Janeway
+    url: https://journals.librarypublishing.arizona.edu/
 # - name: Google
 #   url: https://www.google.com
 # - name: Wikipedia
