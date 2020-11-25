@@ -27,9 +27,9 @@
     "name": "Campus Repository",
     "url": "https://repository.arizona.edu/",
     "slug": "campus-repository",
-    "status": "down",
-    "uptime": "99.99%",
-    "time": 570
+    "status": "up",
+    "uptime": "99.33%",
+    "time": 863
   },
   {
     "name": "Spatial Data Explorer",
