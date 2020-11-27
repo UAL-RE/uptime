@@ -19,16 +19,16 @@
     "name": "ReDATA (stage)",
     "url": "$SECRET_SITE_1",
     "slug": "re-data-stage",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 731
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 609
   },
   {
     "name": "Campus Repository",
     "url": "https://repository.arizona.edu/",
     "slug": "campus-repository",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.70%",
     "time": 965
   },
   {
