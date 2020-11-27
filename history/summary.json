@@ -19,9 +19,9 @@
     "name": "ReDATA (stage)",
     "url": "$SECRET_SITE_1",
     "slug": "re-data-stage",
-    "status": "down",
-    "uptime": "99.99%",
-    "time": 609
+    "status": "up",
+    "uptime": "99.79%",
+    "time": 615
   },
   {
     "name": "Campus Repository",
