@@ -36,6 +36,10 @@ sites:
     url: https://journals.librarypublishing.arizona.edu/
     assignees:
       - edubinsky1116
+  - name: UA Institutional Repository
+    url: https://uair.library.arizona.edu/
+    assignees:
+      - librariankimberly 
 # - name: Google
 #   url: https://www.google.com
 # - name: Wikipedia
