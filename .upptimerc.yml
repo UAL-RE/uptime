@@ -24,6 +24,8 @@ sites:
       - zoidy
   - name: Campus Repository
     url: https://repository.arizona.edu/
+    assignees:
+      - librariankimberly
   - name: Spatial Data Explorer
     url: https://geo.library.arizona.edu/
     assignees:
@@ -32,6 +34,8 @@ sites:
     url: http://www.afghandata.org/
   - name: UAL Janeway
     url: https://journals.librarypublishing.arizona.edu/
+    assignees:
+      - edubinsky1116
 # - name: Google
 #   url: https://www.google.com
 # - name: Wikipedia
