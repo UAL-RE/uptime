@@ -5,7 +5,7 @@
     "slug": "research-data-management-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 247
+    "time": 245
   },
   {
     "name": "ReDATA",
@@ -13,23 +13,23 @@
     "slug": "re-data",
     "status": "up",
     "uptime": "100.00%",
-    "time": 855
+    "time": 865
   },
   {
     "name": "ReDATA (stage)",
     "url": "$SECRET_SITE_1",
     "slug": "re-data-stage",
     "status": "up",
-    "uptime": "99.92%",
-    "time": 745
+    "uptime": "99.93%",
+    "time": 763
   },
   {
     "name": "Campus Repository",
     "url": "https://repository.arizona.edu/",
     "slug": "campus-repository",
     "status": "up",
-    "uptime": "99.88%",
-    "time": 957
+    "uptime": "99.90%",
+    "time": 964
   },
   {
     "name": "Spatial Data Explorer",
@@ -37,7 +37,7 @@
     "slug": "spatial-data-explorer",
     "status": "up",
     "uptime": "100.00%",
-    "time": 489
+    "time": 480
   },
   {
     "name": "Afghan Respository",
@@ -45,7 +45,7 @@
     "slug": "afghan-respository",
     "status": "up",
     "uptime": "100.00%",
-    "time": 142
+    "time": 152
   },
   {
     "name": "UAL Janeway",
@@ -53,7 +53,7 @@
     "slug": "ual-janeway",
     "status": "up",
     "uptime": "100.00%",
-    "time": 988
+    "time": 1008
   },
   {
     "name": "UA Institutional Repository",
@@ -61,6 +61,6 @@
     "slug": "ua-institutional-repository",
     "status": "up",
     "uptime": "100.00%",
-    "time": 449
+    "time": 465
   }
 ]
