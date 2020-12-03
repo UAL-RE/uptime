@@ -5,7 +5,15 @@
     "slug": "research-data-management-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 245
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 245,
+    "timeDay": 244,
+    "timeWeek": 223,
+    "timeMonth": 245,
+    "timeYear": 245
   },
   {
     "name": "ReDATA",
@@ -13,15 +21,31 @@
     "slug": "re-data",
     "status": "up",
     "uptime": "100.00%",
-    "time": 871
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 871,
+    "timeDay": 966,
+    "timeWeek": 899,
+    "timeMonth": 871,
+    "timeYear": 871
   },
   {
     "name": "ReDATA (stage)",
     "url": "$SECRET_SITE_1",
     "slug": "re-data-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "time": 817
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 871,
+    "timeDay": 1625,
+    "timeWeek": 919,
+    "timeMonth": 871,
+    "timeYear": 871
   },
   {
     "name": "Campus Repository",
@@ -29,7 +53,15 @@
     "slug": "campus-repository",
     "status": "up",
     "uptime": "99.91%",
-    "time": 1255
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1477,
+    "timeDay": 3547,
+    "timeWeek": 1580,
+    "timeMonth": 1477,
+    "timeYear": 1477
   },
   {
     "name": "Spatial Data Explorer",
@@ -37,7 +69,15 @@
     "slug": "spatial-data-explorer",
     "status": "up",
     "uptime": "100.00%",
-    "time": 483
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 483,
+    "timeDay": 524,
+    "timeWeek": 464,
+    "timeMonth": 483,
+    "timeYear": 483
   },
   {
     "name": "Afghan Respository",
@@ -45,7 +85,15 @@
     "slug": "afghan-respository",
     "status": "up",
     "uptime": "100.00%",
-    "time": 161
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 161,
+    "timeDay": 276,
+    "timeWeek": 181,
+    "timeMonth": 161,
+    "timeYear": 161
   },
   {
     "name": "UAL Janeway",
@@ -53,7 +101,15 @@
     "slug": "ual-janeway",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1028
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1028,
+    "timeDay": 1270,
+    "timeWeek": 1097,
+    "timeMonth": 1028,
+    "timeYear": 1028
   },
   {
     "name": "UA Institutional Repository",
@@ -61,6 +117,14 @@
     "slug": "ua-institutional-repository",
     "status": "up",
     "uptime": "100.00%",
-    "time": 461
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 462,
+    "timeDay": 450,
+    "timeWeek": 462,
+    "timeMonth": 462,
+    "timeYear": 462
   }
 ]
