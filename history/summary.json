@@ -13,7 +13,7 @@
     "slug": "re-data",
     "status": "up",
     "uptime": "100.00%",
-    "time": 865
+    "time": 871
   },
   {
     "name": "ReDATA (stage)",
@@ -21,7 +21,7 @@
     "slug": "re-data-stage",
     "status": "up",
     "uptime": "99.94%",
-    "time": 763
+    "time": 817
   },
   {
     "name": "Campus Repository",
@@ -29,7 +29,7 @@
     "slug": "campus-repository",
     "status": "up",
     "uptime": "99.91%",
-    "time": 1257
+    "time": 1255
   },
   {
     "name": "Spatial Data Explorer",
@@ -37,7 +37,7 @@
     "slug": "spatial-data-explorer",
     "status": "up",
     "uptime": "100.00%",
-    "time": 480
+    "time": 483
   },
   {
     "name": "Afghan Respository",
@@ -45,7 +45,7 @@
     "slug": "afghan-respository",
     "status": "up",
     "uptime": "100.00%",
-    "time": 152
+    "time": 161
   },
   {
     "name": "UAL Janeway",
@@ -53,7 +53,7 @@
     "slug": "ual-janeway",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1008
+    "time": 1028
   },
   {
     "name": "UA Institutional Repository",
@@ -61,6 +61,6 @@
     "slug": "ua-institutional-repository",
     "status": "up",
     "uptime": "100.00%",
-    "time": 465
+    "time": 461
   }
 ]
