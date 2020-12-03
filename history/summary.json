@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 244,
-    "timeWeek": 223,
-    "timeMonth": 245,
-    "timeYear": 245
+    "time": 238,
+    "timeDay": 142,
+    "timeWeek": 219,
+    "timeMonth": 238,
+    "timeYear": 238
   },
   {
     "name": "ReDATA",
@@ -25,27 +25,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 966,
-    "timeWeek": 899,
-    "timeMonth": 871,
-    "timeYear": 871
+    "time": 876,
+    "timeDay": 948,
+    "timeWeek": 923,
+    "timeMonth": 876,
+    "timeYear": 876
   },
   {
     "name": "ReDATA (stage)",
     "url": "$SECRET_SITE_1",
     "slug": "re-data-stage",
-    "status": "down",
-    "uptime": "98.08%",
-    "uptimeDay": "83.17%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "98.08%",
-    "time": 1375,
-    "timeDay": 3325,
-    "timeWeek": 1556,
-    "timeMonth": 1375,
-    "timeYear": 1375
+    "status": "up",
+    "uptime": "97.30%",
+    "uptimeDay": "75.84%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "97.30%",
+    "time": 1364,
+    "timeDay": 3210,
+    "timeWeek": 1590,
+    "timeMonth": 1364,
+    "timeYear": 1364
   },
   {
     "name": "Campus Repository",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 1477,
-    "timeDay": 4932,
-    "timeWeek": 1580,
-    "timeMonth": 1477,
-    "timeYear": 1477
+    "time": 1456,
+    "timeDay": 1106,
+    "timeWeek": 1621,
+    "timeMonth": 1456,
+    "timeYear": 1456
   },
   {
     "name": "Spatial Data Explorer",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 483,
-    "timeDay": 524,
-    "timeWeek": 464,
-    "timeMonth": 483,
-    "timeYear": 483
+    "time": 475,
+    "timeDay": 357,
+    "timeWeek": 448,
+    "timeMonth": 475,
+    "timeYear": 475
   },
   {
     "name": "Afghan Respository",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 276,
-    "timeWeek": 181,
-    "timeMonth": 161,
-    "timeYear": 161
+    "time": 169,
+    "timeDay": 283,
+    "timeWeek": 204,
+    "timeMonth": 169,
+    "timeYear": 169
   },
   {
     "name": "UAL Janeway",
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1028,
-    "timeDay": 1270,
-    "timeWeek": 1097,
-    "timeMonth": 1028,
-    "timeYear": 1028
+    "time": 1039,
+    "timeDay": 1177,
+    "timeWeek": 1135,
+    "timeMonth": 1039,
+    "timeYear": 1039
   },
   {
     "name": "UA Institutional Repository",
@@ -121,10 +121,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 450,
-    "timeWeek": 462,
-    "timeMonth": 462,
-    "timeYear": 462
+    "time": 434,
+    "timeDay": 325,
+    "timeWeek": 434,
+    "timeMonth": 434,
+    "timeYear": 434
   }
 ]
