@@ -80,7 +80,7 @@
     "url": "https://repository.arizona.edu/",
     "icon": "https://favicons.githubusercontent.com/repository.arizona.edu",
     "slug": "campus-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -88,7 +88,7 @@
     "uptimeYear": "99.55%",
     "time": 974,
     "timeDay": 810,
-    "timeWeek": 924,
+    "timeWeek": 945,
     "timeMonth": 828,
     "timeYear": 974,
     "dailyMinutesDown": {
