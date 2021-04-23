@@ -4,12 +4,14 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Research Data Management Site
+  - name: Data Cooperative Site
     url: https://data.library.arizona.edu
     assignees:
       - astrochun
       - damian-romero
       - zoidy
+      - jcoliver
+      - kcarini
   - name: ReDATA
     url: https://arizona.figshare.com
     assignees:
