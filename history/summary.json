@@ -188,17 +188,19 @@
     "url": "https://uair.library.arizona.edu/",
     "icon": "https://favicons.githubusercontent.com/uair.library.arizona.edu",
     "slug": "ua-institutional-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 437,
-    "timeDay": 416,
-    "timeWeek": 350,
-    "timeMonth": 406,
+    "timeDay": 503,
+    "timeWeek": 380,
+    "timeMonth": 411,
     "timeYear": 437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-24": 0
+    }
   }
 ]
