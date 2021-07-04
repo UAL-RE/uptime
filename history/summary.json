@@ -132,18 +132,20 @@
     "url": "https://geo.library.arizona.edu/",
     "icon": "https://favicons.githubusercontent.com/geo.library.arizona.edu",
     "slug": "spatial-data-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 552,
-    "timeWeek": 442,
-    "timeMonth": 447,
+    "timeDay": 464,
+    "timeWeek": 434,
+    "timeMonth": 445,
     "timeYear": 487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-04": 0
+    }
   },
   {
     "name": "Afghan Respository",
