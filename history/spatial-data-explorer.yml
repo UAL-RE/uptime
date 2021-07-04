@@ -1,7 +1,7 @@
 url: https://geo.library.arizona.edu/
-status: up
-code: 200
-responseTime: 552
-lastUpdated: 2021-07-03T23:05:24.345Z
+status: down
+code: 503
+responseTime: 376
+lastUpdated: 2021-07-04T10:36:06.799Z
 startTime: Tue Nov 24 2020 20:54:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
