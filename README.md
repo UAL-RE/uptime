@@ -27,9 +27,9 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://UAL-ODIS.github.io/uptime)
+[**Visit our status website →**](https://UAL-RE.github.io/uptime)
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Office of Digital Innovation and Stewardship (University of Arizona Libraries)](https://new.library.arizona.edu/departments/odis)
+- Code: [MIT](./LICENSE) © [Research Engagement (University of Arizona Libraries)](https://new.library.arizona.edu/departments/odis)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
