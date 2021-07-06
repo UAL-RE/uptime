@@ -1,5 +1,5 @@
 # Change these first
-owner: UAL-ODIS # Your GitHub username
+owner: UAL-RE # Your GitHub username
 repo: uptime # Your Github repository name
 
 # Add your sites here
@@ -8,7 +8,6 @@ sites:
     url: https://data.library.arizona.edu
     assignees:
       - astrochun
-      - damian-romero
       - zoidy
       - jcoliver
       - kcarini
@@ -16,13 +15,11 @@ sites:
     url: https://arizona.figshare.com
     assignees:
       - astrochun
-      - damian-romero
       - zoidy
   - name: ReDATA (stage)
     url: $SECRET_SITE_1
     assignees:
       - astrochun
-      - damian-romero
       - zoidy
   - name: Campus Repository
     url: https://repository.arizona.edu/
@@ -59,7 +56,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://avatars3.githubusercontent.com/u/61063507?s=200&v=4
-  name: UAL-ODIS Web Services Uptime
+  name: UAL-RE Web Services Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
