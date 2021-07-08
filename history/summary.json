@@ -132,9 +132,9 @@
     "url": "https://geo.library.arizona.edu/",
     "icon": "https://favicons.githubusercontent.com/geo.library.arizona.edu",
     "slug": "spatial-data-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
@@ -144,6 +144,7 @@
     "timeMonth": 428,
     "timeYear": 484,
     "dailyMinutesDown": {
+      "2021-07-08": 0,
       "2021-07-04": 9
     }
   },
