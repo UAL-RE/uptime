@@ -39,6 +39,11 @@ sites:
     url: https://uair.library.arizona.edu/
     assignees:
       - librariankimberly 
+  - name: UA ORCID
+    url: https://orcid.arizona.edu
+    assignees:
+      - zoidy
+      - edubinsky1116
 # - name: Google
 #   url: https://www.google.com
 # - name: Wikipedia
