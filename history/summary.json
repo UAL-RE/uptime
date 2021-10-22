@@ -4,9 +4,9 @@
     "url": "https://data.library.arizona.edu",
     "icon": "https://favicons.githubusercontent.com/data.library.arizona.edu",
     "slug": "data-cooperative-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 241,
     "timeMonth": 212,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-22": 0
+    }
   },
   {
     "name": "ReDATA",
@@ -141,11 +143,11 @@
     "icon": "https://favicons.githubusercontent.com/geo.library.arizona.edu",
     "slug": "spatial-data-explorer",
     "status": "up",
-    "uptime": "85.20%",
+    "uptime": "85.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "85.20%",
+    "uptimeYear": "85.22%",
     "time": 484,
     "timeDay": 546,
     "timeWeek": 475,
