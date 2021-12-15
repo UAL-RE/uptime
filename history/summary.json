@@ -138,18 +138,18 @@
     "icon": "https://favicons.githubusercontent.com/geo.library.arizona.edu",
     "slug": "spatial-data-explorer",
     "status": "down",
-    "uptime": "87.03%",
-    "uptimeDay": "5.10%",
-    "uptimeWeek": "86.44%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "86.32%",
+    "uptime": "86.89%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "77.50%",
+    "uptimeMonth": "94.82%",
+    "uptimeYear": "86.14%",
     "time": 480,
     "timeDay": 0,
     "timeWeek": 522,
     "timeMonth": 463,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2021-12-15": 36,
+      "2021-12-15": 937,
       "2021-12-14": 1331,
       "2021-10-07": 14,
       "2021-10-04": 19,
@@ -284,9 +284,9 @@
     "url": "https://orcid.arizona.edu",
     "icon": "https://favicons.githubusercontent.com/orcid.arizona.edu",
     "slug": "ua-orcid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -295,6 +295,8 @@
     "timeWeek": 388,
     "timeMonth": 367,
     "timeYear": 355,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   }
 ]
