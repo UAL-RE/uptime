@@ -24,10 +24,10 @@ sites:
     url: https://repository.arizona.edu/
     assignees:
       - librariankimberly
-  - name: Spatial Data Explorer
-    url: https://geo.library.arizona.edu/
-    assignees:
-      - kcarini
+#  - name: Spatial Data Explorer
+#    url: https://geo.library.arizona.edu/
+#    assignees:
+#      - kcarini
   - name: Afghan Respository
     url: http://www.afghandata.org/
     assignees:
@@ -45,16 +45,6 @@ sites:
     assignees:
       - zoidy
       - edubinsky1116
-# - name: Google
-#   url: https://www.google.com
-# - name: Wikipedia
-#   url: https://en.wikipedia.org
-# - name: Hacker News
-#   url: https://news.ycombinator.com
-# - name: Broken Site
-#   url: https://thissitedoesnotexist.com
-# - name: Secret Site
-#   url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
