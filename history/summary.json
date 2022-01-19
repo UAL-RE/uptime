@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 202,
     "timeDay": 154,
-    "timeWeek": 180,
+    "timeWeek": 181,
     "timeMonth": 189,
     "timeYear": 202,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 760,
     "timeDay": 582,
-    "timeWeek": 730,
+    "timeWeek": 736,
     "timeMonth": 716,
     "timeYear": 769,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "uptimeYear": "99.92%",
     "time": 928,
     "timeDay": 606,
-    "timeWeek": 753,
+    "timeWeek": 765,
     "timeMonth": 713,
     "timeYear": 762,
     "dailyMinutesDown": {
@@ -67,15 +67,15 @@
     "url": "https://repository.arizona.edu/",
     "icon": "https://favicons.githubusercontent.com/repository.arizona.edu",
     "slug": "campus-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "92.74%",
-    "uptimeWeek": "97.72%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "97.71%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.58%",
     "time": 1073,
-    "timeDay": 2620,
-    "timeWeek": 1615,
+    "timeDay": 3064,
+    "timeWeek": 1662,
     "timeMonth": 1566,
     "timeYear": 1075,
     "dailyMinutesDown": {
@@ -144,7 +144,7 @@
     "uptimeYear": "99.66%",
     "time": 211,
     "timeDay": 18,
-    "timeWeek": 238,
+    "timeWeek": 264,
     "timeMonth": 246,
     "timeYear": 223,
     "dailyMinutesDown": {
@@ -170,7 +170,7 @@
     "uptimeYear": "99.97%",
     "time": 1190,
     "timeDay": 724,
-    "timeWeek": 892,
+    "timeWeek": 905,
     "timeMonth": 923,
     "timeYear": 1218,
     "dailyMinutesDown": {
@@ -193,7 +193,7 @@
     "uptimeYear": "94.32%",
     "time": 431,
     "timeDay": 465,
-    "timeWeek": 415,
+    "timeWeek": 413,
     "timeMonth": 423,
     "timeYear": 426,
     "dailyMinutesDown": {
@@ -240,7 +240,7 @@
     "uptimeYear": "99.99%",
     "time": 365,
     "timeDay": 430,
-    "timeWeek": 349,
+    "timeWeek": 332,
     "timeMonth": 407,
     "timeYear": 365,
     "dailyMinutesDown": {
