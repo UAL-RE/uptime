@@ -22,9 +22,9 @@ sites:
       - zoidy
   - name: Campus Repository
     url: https://repository.arizona.edu/
-    maxResponseTime: 60000
-    assignees:
-      - librariankimberly
+    maxResponseTime: 5000
+#    assignees:
+#      - librariankimberly
 #  - name: Spatial Data Explorer
 #    url: https://geo.library.arizona.edu/
 #    assignees:
