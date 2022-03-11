@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 204,
-    "timeDay": 120,
-    "timeWeek": 198,
-    "timeMonth": 213,
-    "timeYear": 204,
+    "time": 205,
+    "timeDay": 265,
+    "timeWeek": 212,
+    "timeMonth": 209,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2022-01-20": 16,
       "2021-10-22": 19
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 757,
-    "timeDay": 623,
-    "timeWeek": 718,
-    "timeMonth": 713,
-    "timeYear": 768,
+    "timeDay": 656,
+    "timeWeek": 721,
+    "timeMonth": 714,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2021-08-03": 16
     }
@@ -51,14 +51,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 888,
-    "timeDay": 603,
+    "time": 887,
+    "timeDay": 626,
     "timeWeek": 733,
     "timeMonth": 726,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2021-10-05": 17,
-      "2021-03-11": 27
+      "2021-10-05": 17
     }
   },
   {
@@ -67,15 +66,15 @@
     "icon": "https://favicons.githubusercontent.com/repository.arizona.edu",
     "slug": "campus-repository",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.69%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.54%",
-    "time": 1153,
-    "timeDay": 789,
-    "timeWeek": 893,
-    "timeMonth": 946,
+    "time": 1151,
+    "timeDay": 733,
+    "timeWeek": 892,
+    "timeMonth": 942,
     "timeYear": 1190,
     "dailyMinutesDown": {
       "2022-03-04": 10,
@@ -126,8 +125,7 @@
       "2021-03-17": 28,
       "2021-03-16": 22,
       "2021-03-15": 13,
-      "2021-03-12": 16,
-      "2021-03-11": 26
+      "2021-03-12": 16
     }
   },
   {
@@ -138,12 +136,12 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.66%",
     "time": 221,
-    "timeDay": 142,
-    "timeWeek": 592,
+    "timeDay": 26,
+    "timeWeek": 184,
     "timeMonth": 325,
     "timeYear": 238,
     "dailyMinutesDown": {
@@ -167,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1178,
-    "timeDay": 859,
-    "timeWeek": 1018,
-    "timeMonth": 955,
-    "timeYear": 1216,
+    "time": 1177,
+    "timeDay": 1076,
+    "timeWeek": 1039,
+    "timeMonth": 967,
+    "timeYear": 1217,
     "dailyMinutesDown": {
       "2021-09-27": 10,
       "2021-08-02": 118,
@@ -185,15 +183,15 @@
     "icon": "https://favicons.githubusercontent.com/uair.library.arizona.edu",
     "slug": "ua-institutional-repository",
     "status": "up",
-    "uptime": "95.53%",
+    "uptime": "95.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.31%",
-    "time": 430,
-    "timeDay": 471,
-    "timeWeek": 402,
-    "timeMonth": 431,
+    "time": 431,
+    "timeDay": 583,
+    "timeWeek": 419,
+    "timeMonth": 430,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2022-01-20": 16,
@@ -238,11 +236,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 364,
-    "timeDay": 453,
-    "timeWeek": 363,
-    "timeMonth": 389,
-    "timeYear": 364,
+    "time": 365,
+    "timeDay": 465,
+    "timeWeek": 370,
+    "timeMonth": 390,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2021-12-15": 21
     }
