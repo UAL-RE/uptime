@@ -65,9 +65,9 @@
     "url": "https://repository.arizona.edu/",
     "icon": "https://favicons.githubusercontent.com/repository.arizona.edu",
     "slug": "campus-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.64%",
@@ -77,6 +77,7 @@
     "timeMonth": 1018,
     "timeYear": 1218,
     "dailyMinutesDown": {
+      "2022-05-18": 0,
       "2022-05-10": 13,
       "2022-04-22": 41,
       "2022-04-19": 8,
@@ -123,8 +124,7 @@
       "2021-09-14": 8,
       "2021-09-10": 14,
       "2021-08-31": 35,
-      "2021-08-19": 24,
-      "2021-08-09": 8
+      "2021-08-19": 24
     }
   },
   {
@@ -184,7 +184,7 @@
     "icon": "https://favicons.githubusercontent.com/uair.library.arizona.edu",
     "slug": "ua-institutional-repository",
     "status": "up",
-    "uptime": "96.10%",
+    "uptime": "96.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
