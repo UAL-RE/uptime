@@ -4,10 +4,10 @@
     "url": "https://data.library.arizona.edu",
     "icon": "https://favicons.githubusercontent.com/data.library.arizona.edu",
     "slug": "data-cooperative-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 204,
@@ -16,6 +16,7 @@
     "timeMonth": 215,
     "timeYear": 203,
     "dailyMinutesDown": {
+      "2022-06-16": 1,
       "2022-01-20": 16,
       "2021-10-22": 19
     }
@@ -185,9 +186,9 @@
     "url": "https://uair.library.arizona.edu/",
     "icon": "https://favicons.githubusercontent.com/uair.library.arizona.edu",
     "slug": "ua-institutional-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "96.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "94.30%",
@@ -197,6 +198,7 @@
     "timeMonth": 417,
     "timeYear": 416,
     "dailyMinutesDown": {
+      "2022-06-16": 0,
       "2022-05-31": 8,
       "2022-05-19": 11,
       "2022-04-12": 26,
