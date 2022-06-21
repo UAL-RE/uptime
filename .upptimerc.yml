@@ -29,10 +29,10 @@ sites:
 #    url: https://geo.library.arizona.edu/
 #    assignees:
 #      - kcarini
-  - name: Afghan Respository
-    url: http://www.afghandata.org/
-    assignees:
-      - yhan818
+#  - name: Afghan Respository
+#    url: http://www.afghandata.org/
+#    assignees:
+#      - yhan818
   - name: UAL Janeway
     url: https://journals.librarypublishing.arizona.edu/
     assignees:
