@@ -71,10 +71,10 @@
     "url": "https://repository.arizona.edu/",
     "icon": "https://favicons.githubusercontent.com/repository.arizona.edu",
     "slug": "campus-repository",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "91.62%",
-    "uptimeWeek": "98.42%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "91.59%",
+    "uptimeWeek": "98.41%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.59%",
     "time": 1179,
@@ -134,7 +134,7 @@
       "2021-12-26": 76,
       "2021-12-25": 24,
       "2021-12-24": 16,
-      "2021-12-23": 35
+      "2021-12-23": 23
     }
   },
   {
