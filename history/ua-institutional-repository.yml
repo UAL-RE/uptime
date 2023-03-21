@@ -1,7 +1,7 @@
 url: https://uair.library.arizona.edu/
-status: down
-code: 503
-responseTime: 286
-lastUpdated: 2023-03-21T19:21:09.243Z
+status: up
+code: 200
+responseTime: 4224
+lastUpdated: 2023-03-21T19:29:22.744Z
 startTime: Mon Nov 30 2020 17:53:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
