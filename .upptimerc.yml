@@ -20,6 +20,8 @@ sites:
     assignees:
       - yhan818
       - zoidy
+    expectedStatusCodes:
+      - 401
   - name: Campus Repository
     url: https://repository.arizona.edu/
     maxResponseTime: 5000
