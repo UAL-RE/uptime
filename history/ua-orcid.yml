@@ -1,7 +1,7 @@
 url: https://orcid.arizona.edu
-status: down
-code: 500
-responseTime: 6401
-lastUpdated: 2024-02-15T11:19:01.380Z
+status: up
+code: 200
+responseTime: 85
+lastUpdated: 2024-02-15T11:43:31.860Z
 startTime: 2021-07-13T15:14:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
