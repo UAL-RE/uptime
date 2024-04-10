@@ -9,17 +9,18 @@ sites:
     assignees:
       - zoidy
       - jcoliver
-      - kcarini
   - name: ReDATA
     url: https://arizona.figshare.com
     assignees:
       - yhan818
       - zoidy
+      - HafeezOJ
   - name: ReDATA (stage)
     url: $SECRET_SITE_1
     assignees:
       - yhan818
       - zoidy
+      - HafeezOJ
     expectedStatusCodes:
       - 401
   - name: Campus Repository
