@@ -29,18 +29,20 @@
     "url": "https://arizona.figshare.com",
     "icon": "https://icons.duckduckgo.com/ip3/arizona.figshare.com.ico",
     "slug": "re-data",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 684,
-    "timeWeek": 725,
-    "timeMonth": 778,
-    "timeYear": 749,
-    "dailyMinutesDown": {}
+    "time": 769,
+    "timeDay": 569,
+    "timeWeek": 695,
+    "timeMonth": 768,
+    "timeYear": 748,
+    "dailyMinutesDown": {
+      "2024-04-13": 0
+    }
   },
   {
     "name": "ReDATA (stage)",
