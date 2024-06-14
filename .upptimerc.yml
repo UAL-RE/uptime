@@ -16,7 +16,9 @@ sites:
       - zoidy
       - HafeezOJ
     expectedStatusCodes:      
-      - 403      
+      - 403
+      - 200
+      - 201
   - name: ReDATA (stage)
     url: $SECRET_SITE_1
     assignees:
