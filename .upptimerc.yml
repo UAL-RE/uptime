@@ -26,6 +26,8 @@ sites:
     expectedStatusCodes:
       - 401
       - 403
+      - 200
+      - 201
   - name: Campus Repository
     url: https://repository.arizona.edu/
     maxResponseTime: 5000
