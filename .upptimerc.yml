@@ -47,8 +47,8 @@ sites:
     url: https://journals.librarypublishing.arizona.edu/
     assignees:
       - edubinsky1116
-  - name: UA Institutional Repository
-    url: https://uair.library.arizona.edu/
+  - name: Arizona Historical Indexes
+    url: https://uamr.lib.arizona.edu/
     assignees:
       - librariankimberly 
   - name: UA ORCID
