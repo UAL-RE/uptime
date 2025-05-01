@@ -13,7 +13,7 @@
     "time": 572,
     "timeDay": 552,
     "timeWeek": 826,
-    "timeMonth": 769,
+    "timeMonth": 790,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2025-01-06": 16,
@@ -34,7 +34,7 @@
     "time": 716,
     "timeDay": 487,
     "timeWeek": 571,
-    "timeMonth": 646,
+    "timeMonth": 640,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2025-03-25": 8,
@@ -50,8 +50,7 @@
       "2024-05-22": 12,
       "2024-05-16": 17,
       "2024-05-08": 8,
-      "2024-05-04": 19,
-      "2024-05-01": 8
+      "2024-05-04": 19
     }
   },
   {
@@ -68,7 +67,7 @@
     "time": 420,
     "timeDay": 368,
     "timeWeek": 386,
-    "timeMonth": 390,
+    "timeMonth": 387,
     "timeYear": 379,
     "dailyMinutesDown": {}
   },
@@ -79,14 +78,14 @@
     "slug": "campus-repository",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "75.28%",
+    "uptimeDay": "79.88%",
     "uptimeWeek": "92.92%",
     "uptimeMonth": "95.80%",
     "uptimeYear": "99.65%",
     "time": 1791,
-    "timeDay": 2529,
+    "timeDay": 2631,
     "timeWeek": 1785,
-    "timeMonth": 1709,
+    "timeMonth": 1710,
     "timeYear": 1821,
     "dailyMinutesDown": {
       "2025-04-30": 352,
@@ -130,7 +129,7 @@
     "time": 1298,
     "timeDay": 1610,
     "timeWeek": 1271,
-    "timeMonth": 1226,
+    "timeMonth": 1232,
     "timeYear": 1290,
     "dailyMinutesDown": {
       "2025-04-26": 7,
@@ -161,7 +160,7 @@
     "time": 179,
     "timeDay": 631,
     "timeWeek": 259,
-    "timeMonth": 211,
+    "timeMonth": 213,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2025-04-26": 83,
@@ -186,7 +185,7 @@
     "time": 619,
     "timeDay": 458,
     "timeWeek": 423,
-    "timeMonth": 368,
+    "timeMonth": 375,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2025-01-16": 1021,
