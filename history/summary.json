@@ -13,7 +13,7 @@
     "time": 758,
     "timeDay": 96,
     "timeWeek": 277,
-    "timeMonth": 768,
+    "timeMonth": 786,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2025-07-27": 18,
@@ -38,7 +38,7 @@
     "time": 705,
     "timeDay": 1132,
     "timeWeek": 705,
-    "timeMonth": 860,
+    "timeMonth": 861,
     "timeYear": 715,
     "dailyMinutesDown": {
       "2025-03-25": 8
@@ -58,7 +58,7 @@
     "time": 380,
     "timeDay": 652,
     "timeWeek": 403,
-    "timeMonth": 396,
+    "timeMonth": 395,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2025-08-09": 10
@@ -69,19 +69,19 @@
     "url": "https://repository.arizona.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.arizona.edu.ico",
     "slug": "campus-repository",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "97.70%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "99.43%",
-    "time": 1877,
-    "timeDay": 0,
-    "timeWeek": 2330,
-    "timeMonth": 1985,
+    "time": 1872,
+    "timeDay": 1527,
+    "timeWeek": 2290,
+    "timeMonth": 1986,
     "timeYear": 1867,
     "dailyMinutesDown": {
-      "2025-08-25": 0,
+      "2025-08-25": 16,
       "2025-08-24": 13,
       "2025-08-23": 8,
       "2025-08-21": 31,
@@ -140,7 +140,7 @@
     "time": 1298,
     "timeDay": 607,
     "timeWeek": 1136,
-    "timeMonth": 1311,
+    "timeMonth": 1313,
     "timeYear": 1260,
     "dailyMinutesDown": {
       "2025-08-14": 35,
@@ -167,7 +167,7 @@
     "time": 252,
     "timeDay": 88,
     "timeWeek": 338,
-    "timeMonth": 418,
+    "timeMonth": 420,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-05-06": 27,
@@ -197,7 +197,7 @@
     "time": 595,
     "timeDay": 152,
     "timeWeek": 499,
-    "timeMonth": 1406,
+    "timeMonth": 1437,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2025-08-11": 1142,
