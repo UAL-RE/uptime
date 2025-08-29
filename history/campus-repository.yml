@@ -1,7 +1,7 @@
 url: https://repository.arizona.edu/
-status: up
-code: 200
-responseTime: 1013
-lastUpdated: 2025-08-29T03:55:33.408Z
+status: degraded
+code: 500
+responseTime: 11403
+lastUpdated: 2025-08-29T04:49:01.860Z
 startTime: 2020-11-24T20:54:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
