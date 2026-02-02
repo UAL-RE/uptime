@@ -27,17 +27,17 @@
     "url": "https://arizona.figshare.com",
     "icon": "https://icons.duckduckgo.com/ip3/arizona.figshare.com.ico",
     "slug": "re-data",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "8.02%",
-    "uptimeWeek": "7.06%",
-    "uptimeMonth": "35.80%",
-    "uptimeYear": "94.65%",
+    "uptimeDay": "9.90%",
+    "uptimeWeek": "7.33%",
+    "uptimeMonth": "35.92%",
+    "uptimeYear": "94.66%",
     "time": 638,
-    "timeDay": 399,
-    "timeWeek": 395,
+    "timeDay": 395,
+    "timeWeek": 394,
     "timeMonth": 416,
-    "timeYear": 628,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2026-02-02": 457,
       "2026-02-01": 1325,
@@ -62,7 +62,7 @@
       "2026-01-08": 670,
       "2026-01-07": 1371,
       "2026-01-06": 1270,
-      "2026-01-05": 104
+      "2026-01-05": 51
     }
   },
   {
