@@ -14,7 +14,7 @@
     "timeDay": 831,
     "timeWeek": 1079,
     "timeMonth": 1370,
-    "timeYear": 972,
+    "timeYear": 973,
     "dailyMinutesDown": {
       "2025-07-27": 18,
       "2025-07-10": 26,
@@ -27,14 +27,14 @@
     "url": "https://arizona.figshare.com",
     "icon": "https://icons.duckduckgo.com/ip3/arizona.figshare.com.ico",
     "slug": "re-data",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "5.18%",
-    "uptimeWeek": "7.18%",
-    "uptimeMonth": "34.50%",
-    "uptimeYear": "94.54%",
-    "time": 638,
-    "timeDay": 429,
+    "uptimeDay": "23.35%",
+    "uptimeWeek": "9.68%",
+    "uptimeMonth": "34.62%",
+    "uptimeYear": "94.55%",
+    "time": 637,
+    "timeDay": 450,
     "timeWeek": 396,
     "timeMonth": 416,
     "timeYear": 627,
@@ -61,8 +61,7 @@
       "2026-01-14": 560,
       "2026-01-08": 670,
       "2026-01-07": 1371,
-      "2026-01-06": 1270,
-      "2026-01-05": 51
+      "2026-01-06": 1270
     }
   },
   {
@@ -100,7 +99,7 @@
     "timeDay": 1456,
     "timeWeek": 1334,
     "timeMonth": 1768,
-    "timeYear": 2049,
+    "timeYear": 2050,
     "dailyMinutesDown": {
       "2026-02-02": 90,
       "2026-01-31": 39,
@@ -180,7 +179,7 @@
     "timeDay": 918,
     "timeWeek": 1050,
     "timeMonth": 1029,
-    "timeYear": 1205,
+    "timeYear": 1204,
     "dailyMinutesDown": {
       "2026-01-31": 41,
       "2025-11-13": 46,
