@@ -27,15 +27,15 @@
     "url": "https://arizona.figshare.com",
     "icon": "https://icons.duckduckgo.com/ip3/arizona.figshare.com.ico",
     "slug": "re-data",
-    "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "8.18%",
-    "uptimeWeek": "6.85%",
-    "uptimeMonth": "16.40%",
-    "uptimeYear": "91.46%",
-    "time": 590,
-    "timeDay": 434,
-    "timeWeek": 431,
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "10.03%",
+    "uptimeWeek": "7.12%",
+    "uptimeMonth": "16.46%",
+    "uptimeYear": "91.50%",
+    "time": 589,
+    "timeDay": 429,
+    "timeWeek": 429,
     "timeMonth": 406,
     "timeYear": 578,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
       "2026-01-29": 1325,
       "2026-01-28": 1297,
       "2026-01-27": 1323,
-      "2026-01-26": 445
+      "2026-01-26": 234
     }
   },
   {
@@ -188,7 +188,7 @@
     "slug": "ual-janeway",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "96.09%",
+    "uptimeDay": "96.78%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.88%",
