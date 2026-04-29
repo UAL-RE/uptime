@@ -112,7 +112,7 @@
     "timeDay": 1538,
     "timeWeek": 2897,
     "timeMonth": 1907,
-    "timeYear": 2158,
+    "timeYear": 2160,
     "dailyMinutesDown": {
       "2026-04-26": 139,
       "2026-04-05": 29,
@@ -187,9 +187,9 @@
     "url": "https://journals.librarypublishing.arizona.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/journals.librarypublishing.arizona.edu.ico",
     "slug": "ual-janeway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "99.68%",
@@ -199,6 +199,7 @@
     "timeMonth": 973,
     "timeYear": 1200,
     "dailyMinutesDown": {
+      "2026-04-29": 0,
       "2026-04-20": 151,
       "2026-04-19": 184,
       "2026-04-18": 176,
