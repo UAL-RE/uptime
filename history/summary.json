@@ -25,16 +25,16 @@
     "url": "https://arizona.figshare.com",
     "icon": "https://icons.duckduckgo.com/ip3/arizona.figshare.com.ico",
     "slug": "re-data",
-    "status": "down",
+    "status": "up",
     "uptime": "98.47%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "91.53%",
-    "time": 570,
-    "timeDay": 750,
-    "timeWeek": 618,
-    "timeMonth": 675,
+    "uptimeDay": "92.75%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "91.51%",
+    "time": 579,
+    "timeDay": 824,
+    "timeWeek": 646,
+    "timeMonth": 682,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2026-02-15": 897,
@@ -74,7 +74,7 @@
       "2026-04-30": 381,
       "2026-05-01": 761,
       "2026-05-30": 71,
-      "2026-06-05": 15
+      "2026-06-05": 104
     }
   },
   {
@@ -82,20 +82,20 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "re-data-stage",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 504,
-    "timeWeek": 456,
-    "timeMonth": 445,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "93.08%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.98%",
+    "time": 402,
+    "timeDay": 540,
+    "timeWeek": 471,
+    "timeMonth": 449,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2025-08-09": 10,
-      "2026-06-05": 10
+      "2026-06-05": 100
     }
   },
   {
@@ -103,17 +103,17 @@
     "url": "https://repository.arizona.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.arizona.edu.ico",
     "slug": "campus-repository",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "96.25%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "96.23%",
     "time": 2115,
     "timeDay": 1199,
-    "timeWeek": 1257,
-    "timeMonth": 1131,
-    "timeYear": 2150,
+    "timeWeek": 1250,
+    "timeMonth": 1133,
+    "timeYear": 2148,
     "dailyMinutesDown": {
       "2025-09-07": 50,
       "2025-09-10": 316,
@@ -181,7 +181,7 @@
       "2026-04-26": 139,
       "2026-05-01": 57,
       "2026-05-03": 51,
-      "2026-06-05": 5
+      "2026-06-05": 95
     }
   },
   {
@@ -229,24 +229,24 @@
     "url": "https://uamr.lib.arizona.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/uamr.lib.arizona.edu.ico",
     "slug": "arizona-historical-indexes",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "93.08%",
-    "uptimeWeek": "95.50%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "99.89%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "86.88%",
+    "uptimeWeek": "94.62%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.87%",
     "time": 263,
-    "timeDay": 148,
-    "timeWeek": 237,
-    "timeMonth": 253,
-    "timeYear": 275,
+    "timeDay": 126,
+    "timeWeek": 223,
+    "timeMonth": 247,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2026-01-18": 60,
       "2026-01-25": 44,
       "2026-02-28": 44,
       "2026-06-04": 315,
       "2026-06-03": 39,
-      "2026-06-05": 98
+      "2026-06-05": 188
     }
   },
   {
@@ -254,17 +254,17 @@
     "url": "https://orcid.arizona.edu",
     "icon": "https://icons.duckduckgo.com/ip3/orcid.arizona.edu.ico",
     "slug": "ua-orcid",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "97.34%",
     "time": 630,
-    "timeDay": 355,
-    "timeWeek": 439,
-    "timeMonth": 465,
-    "timeYear": 674,
+    "timeDay": 245,
+    "timeWeek": 401,
+    "timeMonth": 454,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2025-06-06": 1123,
       "2025-08-07": 230,
@@ -281,7 +281,7 @@
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 248,
-      "2026-06-05": 0
+      "2026-06-05": 90
     }
   }
 ]
