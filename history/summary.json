@@ -14,7 +14,7 @@
     "timeDay": 1087,
     "timeWeek": 1652,
     "timeMonth": 1798,
-    "timeYear": 1206,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2025-07-27": 18
     }
@@ -30,7 +30,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.51%",
-    "time": 580,
+    "time": 560,
     "timeDay": 624,
     "timeWeek": 706,
     "timeMonth": 699,
@@ -91,7 +91,7 @@
     "timeDay": 486,
     "timeWeek": 473,
     "timeMonth": 469,
-    "timeYear": 417,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2025-08-09": 10,
       "2026-06-05": 100
@@ -102,19 +102,19 @@
     "url": "https://repository.arizona.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.arizona.edu.ico",
     "slug": "campus-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.70%",
-    "uptimeYear": "96.05%",
+    "uptimeYear": "96.06%",
     "time": 2261,
     "timeDay": 1368,
     "timeWeek": 1552,
     "timeMonth": 4228,
     "timeYear": 2238,
     "dailyMinutesDown": {
-      "2025-09-10": 189,
+      "2025-09-10": 170,
       "2025-09-11": 16,
       "2025-09-12": 222,
       "2025-09-14": 173,
@@ -183,7 +183,8 @@
       "2026-06-07": 98,
       "2026-06-23": 191,
       "2026-07-01": 401,
-      "2026-07-02": 414
+      "2026-07-02": 414,
+      "2026-07-13": 0
     }
   },
   {
@@ -235,12 +236,12 @@
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.61%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "99.67%",
     "time": 273,
     "timeDay": 105,
     "timeWeek": 255,
-    "timeMonth": 316,
+    "timeMonth": 329,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2026-01-18": 60,
@@ -273,7 +274,7 @@
     "timeDay": 366,
     "timeWeek": 448,
     "timeMonth": 381,
-    "timeYear": 652,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2025-08-07": 230,
       "2025-08-11": 1142,
