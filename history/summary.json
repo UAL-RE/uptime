@@ -192,17 +192,17 @@
     "url": "https://journals.librarypublishing.arizona.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/journals.librarypublishing.arizona.edu.ico",
     "slug": "ual-janeway",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.69%",
-    "time": 1254,
-    "timeDay": 24206,
-    "timeWeek": 6838,
-    "timeMonth": 2512,
-    "timeYear": 1261,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "82.63%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.66%",
+    "time": 1356,
+    "timeDay": 35777,
+    "timeWeek": 12625,
+    "timeMonth": 4275,
+    "timeYear": 1407,
     "dailyMinutesDown": {
       "2025-08-14": 35,
       "2025-08-27": 14,
@@ -225,7 +225,7 @@
       "2026-04-20": 151,
       "2026-04-29": 53,
       "2026-05-02": 49,
-      "2026-07-18": 80
+      "2026-07-18": 250
     }
   },
   {
