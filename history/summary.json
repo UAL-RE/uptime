@@ -237,16 +237,16 @@
     "url": "https://uamr.lib.arizona.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/uamr.lib.arizona.edu.ico",
     "slug": "arizona-historical-indexes",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.66%",
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.63%",
     "time": 275,
-    "timeDay": 86,
-    "timeWeek": 239,
-    "timeMonth": 281,
+    "timeDay": 78,
+    "timeWeek": 220,
+    "timeMonth": 274,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2026-01-18": 60,
@@ -263,7 +263,7 @@
       "2026-06-18": 116,
       "2026-06-28": 65,
       "2026-07-26": 65,
-      "2026-08-04": 1
+      "2026-08-04": 131
     }
   },
   {
