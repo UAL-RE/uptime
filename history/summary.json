@@ -276,10 +276,10 @@
     "slug": "ua-orcid",
     "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.69%",
+    "uptimeDay": "91.19%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "98.67%",
     "time": 644,
     "timeDay": 6153,
     "timeWeek": 1122,
@@ -297,7 +297,7 @@
       "2026-04-30": 248,
       "2026-06-05": 90,
       "2026-07-26": 111,
-      "2026-08-28": 1
+      "2026-08-28": 127
     }
   }
 ]
