@@ -274,16 +274,16 @@
     "url": "https://orcid.arizona.edu",
     "icon": "https://icons.duckduckgo.com/ip3/orcid.arizona.edu.ico",
     "slug": "ua-orcid",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "91.19%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "98.67%",
-    "time": 644,
-    "timeDay": 6153,
-    "timeWeek": 1122,
-    "timeMonth": 543,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "34.25%",
+    "uptimeWeek": "90.61%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "98.51%",
+    "time": 643,
+    "timeDay": 3282,
+    "timeWeek": 1033,
+    "timeMonth": 539,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2025-10-24": 8,
@@ -297,7 +297,7 @@
       "2026-04-30": 248,
       "2026-06-05": 90,
       "2026-07-26": 111,
-      "2026-08-28": 127
+      "2026-08-28": 947
     }
   }
 ]
