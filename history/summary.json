@@ -102,17 +102,17 @@
     "url": "https://repository.arizona.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.arizona.edu.ico",
     "slug": "campus-repository",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.35%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.34%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "98.34%",
-    "time": 2316,
-    "timeDay": 2246,
-    "timeWeek": 2264,
-    "timeMonth": 2160,
-    "timeYear": 2122,
+    "uptimeYear": "98.41%",
+    "time": 2330,
+    "timeDay": 5926,
+    "timeWeek": 3079,
+    "timeMonth": 2385,
+    "timeYear": 2139,
     "dailyMinutesDown": {
       "2025-10-08": 533,
       "2025-10-07": 1440,
@@ -173,7 +173,8 @@
       "2026-08-19": 138,
       "2026-09-06": 28,
       "2026-10-02": 113,
-      "2026-10-01": 54
+      "2026-10-01": 54,
+      "2026-10-05": 0
     }
   },
   {
