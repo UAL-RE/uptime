@@ -104,9 +104,9 @@
     "slug": "campus-repository",
     "status": "degraded",
     "uptime": "99.29%",
-    "uptimeDay": "61.48%",
-    "uptimeWeek": "92.84%",
-    "uptimeMonth": "98.35%",
+    "uptimeDay": "54.11%",
+    "uptimeWeek": "91.79%",
+    "uptimeMonth": "98.11%",
     "uptimeYear": "98.50%",
     "time": 2350,
     "timeDay": 8399,
@@ -174,7 +174,7 @@
       "2026-10-02": 113,
       "2026-10-01": 54,
       "2026-10-05": 554,
-      "2026-10-06": 0
+      "2026-10-06": 106
     }
   },
   {
