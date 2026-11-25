@@ -13,8 +13,8 @@
     "time": 1266,
     "timeDay": 851,
     "timeWeek": 1676,
-    "timeMonth": 1434,
-    "timeYear": 1471,
+    "timeMonth": 1438,
+    "timeYear": 1474,
     "dailyMinutesDown": {
       "2026-10-11": 701,
       "2026-11-09": 627
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/arizona.figshare.com.ico",
     "slug": "re-data",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -34,7 +34,7 @@
     "time": 579,
     "timeDay": 557,
     "timeWeek": 742,
-    "timeMonth": 785,
+    "timeMonth": 780,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2026-02-15": 736,
@@ -93,7 +93,7 @@
     "time": 428,
     "timeDay": 319,
     "timeWeek": 412,
-    "timeMonth": 442,
+    "timeMonth": 437,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2026-06-05": 100,
@@ -105,17 +105,17 @@
     "url": "https://repository.arizona.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/repository.arizona.edu.ico",
     "slug": "campus-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.35%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "87.34%",
     "uptimeMonth": "95.17%",
     "uptimeYear": "98.65%",
-    "time": 2263,
-    "timeDay": 796,
-    "timeWeek": 8408,
-    "timeMonth": 4091,
-    "timeYear": 2273,
+    "time": 2261,
+    "timeDay": 653,
+    "timeWeek": 7690,
+    "timeMonth": 4052,
+    "timeYear": 2272,
     "dailyMinutesDown": {
       "2025-11-28": 11,
       "2025-11-30": 13,
@@ -169,7 +169,8 @@
       "2026-11-20": 754,
       "2026-11-19": 48,
       "2026-11-21": 114,
-      "2026-11-22": 360
+      "2026-11-22": 360,
+      "2026-11-25": 0
     }
   },
   {
@@ -186,7 +187,7 @@
     "time": 1331,
     "timeDay": 943,
     "timeWeek": 1032,
-    "timeMonth": 1050,
+    "timeMonth": 1049,
     "timeYear": 1374,
     "dailyMinutesDown": {
       "2026-01-31": 41,
@@ -223,7 +224,7 @@
     "time": 269,
     "timeDay": 110,
     "timeWeek": 180,
-    "timeMonth": 191,
+    "timeMonth": 193,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2026-01-18": 60,
@@ -260,8 +261,8 @@
     "time": 603,
     "timeDay": 332,
     "timeWeek": 338,
-    "timeMonth": 359,
-    "timeYear": 563,
+    "timeMonth": 366,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2026-01-13": 295,
       "2026-03-24": 138,
